@@ -469,4 +469,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt_r10:system/etc/wifi/nvram_net.txt_r10 \
-    vendor/samsung/trlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf
+    vendor/samsung/trlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libc2d30.so:system/vendor/lib/libc2d30.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so
+
