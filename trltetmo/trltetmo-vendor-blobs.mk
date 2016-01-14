@@ -19,6 +19,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltetmo/proprietary/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd:system/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd \
     vendor/samsung/trltetmo/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
     vendor/samsung/trltetmo/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \
+    vendor/samsung/trltetmo/proprietary/bin/gsiff_daemon:system/bin/gsiff_daemon \
+    vendor/samsung/trltetmo/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/trltetmo/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/samsung/trltetmo/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/samsung/trltetmo/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
