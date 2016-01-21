@@ -60,6 +60,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/trlteusc/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/trlteusc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
+    vendor/samsung/trlteusc/proprietary/lib/hw/bluetooth.default.so:system/lib/bluetooth.default.so \
+    vendor/samsung/trlteusc/proprietary/lib/libbluetooth_jni.so:system/lib/libbluetooth_jni.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so
