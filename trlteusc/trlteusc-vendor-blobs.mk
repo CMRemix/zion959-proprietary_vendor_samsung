@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 # You may obtain a copy of the License at
 #
-# http://www.apache.org/licenses/LICENSE-2.0
+# http://www.apache.org/licenses/LICENSE-2.0 
 #
 # Unless required by applicable law or agreed to in writing, software
 # distributed under the License is distributed on an "AS IS" BASIS,
@@ -38,19 +38,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
-    vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
     vendor/samsung/trlteusc/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/samsung/trlteusc/proprietary/bin/efsks:system/bin/efsks \
-    vendor/samsung/trlteusc/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
     vendor/samsung/trlteusc/proprietary/bin/ks:system/bin/ks \
     vendor/samsung/trlteusc/proprietary/bin/mdm_helper:system/bin/mdm_helper \
     vendor/samsung/trlteusc/proprietary/bin/mdm_helper_proxy:system/bin/mdm_helper_proxy \
     vendor/samsung/trlteusc/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/trlteusc/proprietary/bin/qmuxd:system/bin/qmuxd \
-    vendor/samsung/trlteusc/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/samsung/trlteusc/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/trlteusc/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/trlteusc/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/trlteusc/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/samsung/trlteusc/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
