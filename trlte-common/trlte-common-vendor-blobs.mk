@@ -39,6 +39,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
     vendor/samsung/trlte-common/proprietary/lib/libdetectmodem.so:system/lib/libdetectmodem.so \
     vendor/samsung/trlte-common/proprietary/lib/libmysound.so:system/lib/libmysound.so \
+    vendor/samsung/trlte-common/proprietary/lib/soundfx/libaudioeffectoffload.so:system/lib/soundfx/libaudioeffectoffload.so \
+    vendor/samsung/trlte-common/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
+    vendor/samsung/trlte-common/proprietary/lib/libaudiosa.so:system/lib/libaudiosa.so \
     vendor/samsung/trlte-common/proprietary/lib/libssaudio-client.so:system/lib/libssaudio-client.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
