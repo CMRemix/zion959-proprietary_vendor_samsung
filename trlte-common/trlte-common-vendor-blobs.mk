@@ -283,14 +283,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/etc/H16US_imx240_module_info.xml:system/etc/H16US_imx240_module_info.xml \
     vendor/samsung/trlte-common/proprietary/lib/hw/consumerir.default.so:system/lib/hw/consumerir.default.so \
     vendor/samsung/trlte-common/proprietary/bin/mpdecision:system/bin/mpdecision \
-    vendor/samsung/trlte-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
+    vendor/samsung/trlte-common/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/samsung/trlte-common/proprietary/bin/qseecomd:system/bin/qseecomd \
-    vendor/samsung/trlte-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/samsung/trlte-common/proprietary/lib/drm/libdrmwvmplugin.so:system/lib/drm/libdrmwvmplugin.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libQSEEComAPI.so:system/vendor/lib/libQSEEComAPI.so \
-    vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
+    vendor/samsung/trlte-common/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmdiag.so:system/vendor/lib/libdrmdiag.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
@@ -383,4 +383,31 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_mfg.txt:system/etc/wifi/nvram_mfg.txt \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt:system/etc/wifi/nvram_net.txt \
     vendor/samsung/trlte-common/proprietary/etc/wifi/nvram_net.txt_r10:system/etc/wifi/nvram_net.txt_r10 \
-    vendor/samsung/trlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf
+    vendor/samsung/trlte-common/proprietary/etc/wifi/wpa_supplicant.conf:system/etc/wifi/wpa_supplicant.conf \
+    vendor/samsung/trlte-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
+    vendor/samsung/trlte-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/samsung/trlte-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/samsung/trlte-common/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
+    vendor/samsung/trlte-common/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
+    vendor/samsung/trlte-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
+    vendor/samsung/trlte-common/proprietary/vendor/lib/liblowi_client.so:system/vendor/lib/liblowi_client.so \
+    vendor/samsung/trlte-common/proprietary/lib/libagc_max.so:system/lib/libagc_max.so \
+    vendor/samsung/trlte-common/proprietary/lib/libqservice.so:system/lib/libqservice.so \
+    vendor/samsung/trlte-common/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
+    vendor/samsung/trlte-common/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
+    vendor/samsung/trlte-common/proprietary/lib/libxml2.so:system/lib/libxml2.so \
+    vendor/samsung/trlte-common/proprietary/lib/libjpegehw.so:system/lib/libjpegehw.so \
+    vendor/samsung/trlte-common/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so
+
