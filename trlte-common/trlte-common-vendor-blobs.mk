@@ -45,7 +45,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
     vendor/samsung/trlte-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
-    vendor/samsung/trlte-common/proprietary/lib/hw/camera.apq8084.so:system/lib/hw/camera.apq8084.so \
+    vendor/samsung/trlte-common/proprietary/lib/hw/camera.apq8084.so:system/lib/hw/camera.vendor.apq8084.so \
     vendor/samsung/trlte-common/proprietary/lib/libarcsoft_nighthawk.so:system/lib/libarcsoft_nighthawk.so \
     vendor/samsung/trlte-common/proprietary/lib/libliveframework.so:system/lib/libliveframework.so \
     vendor/samsung/trlte-common/proprietary/lib/libmmcamera2_stats_algorithm.so:system/lib/libmmcamera2_stats_algorithm.so \
