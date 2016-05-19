@@ -44,10 +44,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libadiertac.so:system/vendor/lib/libadiertac.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
-    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A0_V0033.0000.hcd:system/vendor/firmware/bcm4358A0_V0033.0000.hcd \
-    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd:system/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd \
-    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
-    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/BT_FW_BCM4358A1_001.002.005.0032.0066.hcd:system/vendor/firmware/BT_FW_BCM4358A1_001.002.005.0032.0066.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569.hcd:system/vendor/firmware/bcm43569.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A0.hcd:system/vendor/firmware/bcm43569A0.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm43569A1.hcd:system/vendor/firmware/bcm43569A1.hcd \
     vendor/samsung/trlte-common/proprietary/bin/mm-qcamera-daemon:system/bin/mm-qcamera-daemon \
     vendor/samsung/trlte-common/proprietary/lib/hw/camera.apq8084.so:system/lib/hw/camera.vendor.apq8084.so \
     vendor/samsung/trlte-common/proprietary/lib/libarcsoft_nighthawk.so:system/lib/libarcsoft_nighthawk.so \
