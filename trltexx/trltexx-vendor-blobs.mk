@@ -19,8 +19,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltexx/proprietary/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd:system/vendor/firmware/bcm4358A0_V0033.0000_wisol.hcd \
     vendor/samsung/trltexx/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
     vendor/samsung/trltexx/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \
-    vendor/samsung/trltexx/proprietary/lib/hw/bluetooth.default.so:system/lib/hw/bluetooth.default.so \
-    vendor/samsung/trltexx/proprietary/lib/libbluetooth_jni.so:system/lib/libbluetooth_jni.so \
     vendor/samsung/trltexx/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin \
     vendor/samsung/trltexx/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
