@@ -405,5 +405,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trlte-common/proprietary/lib/libxml2.so:system/lib/libxml2.so \
     vendor/samsung/trlte-common/proprietary/lib/libjpegehw.so:system/lib/libjpegehw.so \
-    vendor/samsung/trlte-common/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so
-
+    vendor/samsung/trlte-common/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0051.0083.hcd:system/vendor/firmware/bcm4358A1_V0051.0083.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0051.0083_wisol.hcd:system/vendor/firmware/bcm4358A1_V0051.0083_wisol.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/sec_s3fwrn5_firmware.bin:system/vendor/firmware/sec_s3fwrn5_firmware.bin
