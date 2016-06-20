@@ -42,7 +42,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltexx/proprietary/lib/libedmnativehelper.so:system/lib/libedmnativehelper.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trltexx/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
+    vendor/samsung/trltexx/proprietary/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-codec_sshd.so:system/lib/libbt-codec_sshd.so \
