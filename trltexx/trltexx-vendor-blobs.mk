@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/trltexx/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/samsung/trltexx/proprietary/vendor/lib/libmdmdetect.so:system/vendor/lib/libmdmdetect.so \
-    vendor/samsung/trltexx/proprietary/vendor/lib/libperipheral_client.so:system/vendor/lib/libperipheral_client.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
@@ -26,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltexx/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
+    vendor/samsung/trltexx/proprietary/vendor/lib/libqmi_client_helper.so:system/vendor/lib/libqmi_client_helper.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
     vendor/samsung/trltexx/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
@@ -37,10 +37,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltexx/proprietary/lib/libagc_max.so:system/lib/libagc_max.so \
     vendor/samsung/trltexx/proprietary/lib/libqservice.so:system/lib/libqservice.so \
     vendor/samsung/trltexx/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
+    vendor/samsung/trltexx/proprietary/lib/libtinyxml2.so:system/lib/libtinyxml2.so \
     vendor/samsung/trltexx/proprietary/lib/libqdutils.so:system/lib/libqdutils.so \
     vendor/samsung/trltexx/proprietary/lib/libjpegehw.so:system/lib/libjpegehw.so \
     vendor/samsung/trltexx/proprietary/lib/libjpegdhw.so:system/lib/libjpegdhw.so \
     vendor/samsung/trltexx/proprietary/lib/libedmnativehelper.so:system/lib/libedmnativehelper.so \
+    vendor/samsung/trltexx/proprietary/lib/libedmnativehelperservice.so:system/lib/libedmnativehelperservice.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
     vendor/samsung/trltexx/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
