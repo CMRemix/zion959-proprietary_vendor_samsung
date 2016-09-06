@@ -50,7 +50,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltetmo/proprietary/lib/libcontrolcsc.so:system/lib/libcontrolcsc.so \
     vendor/samsung/trltetmo/proprietary/lib/libbt-iopdb.so:system/lib/libbt-iopdb.so \
     vendor/samsung/trltetmo/proprietary/lib/libbt-iopdb_mod.so:system/lib/libbt-iopdb_mod.so \
-    vendor/samsung/trltetmo/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
+    vendor/samsung/trltetmo/proprietary/lib/libbt-vendor.so:system/lib/libbt-vendor.so \
     vendor/samsung/trltetmo/proprietary/lib/libbt-codec_aptx.so:system/lib/libbt-codec_aptx.so \
     vendor/samsung/trltetmo/proprietary/lib/libbt-aptX-ARM-4.2.2.so:system/lib/libbt-aptX-ARM-4.2.2.so \
     vendor/samsung/trltetmo/proprietary/lib/libbt-codec_sshd.so:system/lib/libbt-codec_sshd.so \
