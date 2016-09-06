@@ -61,6 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trltexx/proprietary/bin/rmnetcli:system/bin/rmnetcli \
     vendor/samsung/trltexx/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/trltexx/proprietary/lib/libril.so:system/lib/libril.so \
+    vendor/samsung/trltexx/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/trltexx/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
     vendor/samsung/trltexx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/trltexx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
