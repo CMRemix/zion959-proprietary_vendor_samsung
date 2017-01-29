@@ -376,8 +376,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libcommon_time_client.so:system/lib/libcommon_time_client.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
-    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0051.0083.hcd:system/vendor/firmware/bcm4358A1_V0051.0083.hcd \
-    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0051.0083_wisol.hcd:system/vendor/firmware/bcm4358A1_V0051.0083_wisol.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
+    vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \
     vendor/samsung/trlte-common/proprietary/bin/olsrd:system/bin/olsrd \
     vendor/samsung/trlte-common/proprietary/etc/wifi/bcmdhd_apsta.bin:system/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/trlte-common/proprietary/etc/wifi/bcmdhd_ibss.bin:system/etc/wifi/bcmdhd_ibss.bin \
