@@ -372,9 +372,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
     vendor/samsung/trlte-common/proprietary/lib/libsensorhubservice.so:system/lib/libsensorhubservice.so \
     vendor/samsung/trlte-common/proprietary/lib/hw/sensorhubs.apq8084.so:system/lib/hw/sensorhubs.apq8084.so \
-    vendor/samsung/trlte-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/samsung/trlte-common/proprietary/lib/libcommon_time_client.so:system/lib/libcommon_time_client.so \
-    vendor/samsung/trlte-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095.hcd:system/vendor/firmware/bcm4358A1_V0054.0095.hcd \
     vendor/samsung/trlte-common/proprietary/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd:system/vendor/firmware/bcm4358A1_V0054.0095_wisol.hcd \
