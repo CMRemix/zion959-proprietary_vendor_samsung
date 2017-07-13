@@ -300,6 +300,12 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libWVphoneAPI.so:system/vendor/lib/libWVphoneAPI.so \
     vendor/samsung/trlte-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/samsung/trlte-common/proprietary/bin/vcsFPService:system/bin/vcsFPService \
+    vendor/samsung/trlte-common/proprietary/lib/libfpasmtztransport.so:system/lib/libfpasmtztransport.so \
+    vendor/samsung/trlte-common/proprietary/lib/libvalAuth.so:system/lib/libvalAuth.so \
+    vendor/samsung/trlte-common/proprietary/lib/libvcsfp.so:system/lib/libvcsfp.so \
+    vendor/samsung/trlte-common/proprietary/lib/libvfmClient.so:system/lib/libvfmClient.so \
+    vendor/samsung/trlte-common/proprietary/lib/libvfmtztransport.so:system/lib/libvfmtztransport.so \
     vendor/samsung/trlte-common/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/samsung/trlte-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
     vendor/samsung/trlte-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
