@@ -1,0 +1,6 @@
+service visiond /system/bin/visiond
+    class main
+    user cmhservice
+    group system camera media media_rw
+    # if bootcpuset is not on, set to root group
+    writepid /dev/cpuset/visiond/tasks

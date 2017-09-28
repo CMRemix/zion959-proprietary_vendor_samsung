@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <int name="CF"   value="2" />
+    <int name="FACE" value="0" />
+    <int name="QR"   value="2" />
+    <int name="OCR"  value="6" />
+    <int name="MD"   value="0" />
+    <int name="ROI"  value="4" />
+    <int name="VF"   value="0" />
+    <int name="MV"   value="1" />
+    <int name="STR"  value="1" />
+    <int name="WINE" value="0" />
+    <int name="STD"  value="3" />
+</map>
